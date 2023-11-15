@@ -1,0 +1,4 @@
+C:\Publish\appsettings.Development.json
+C:\Publish\appsettings.json
+C:\Publish\FileParser.pdb
+C:\Publish\FileParser.exe
